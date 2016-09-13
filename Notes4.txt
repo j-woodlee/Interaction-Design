@@ -1,0 +1,8 @@
+September 13, 2016
+Three levels for effective interaction:
+    1. Guidelines - very specific rule sets, usually centered on organizations or commercial entities
+    2. Principles - middle level of abstraction
+    3. Theories - universal notions, capable of being predictive (i.e. "anti-hindsight")
+
+Guidelines:
+  example: Google Material Design
