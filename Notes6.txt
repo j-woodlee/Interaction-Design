@@ -1,0 +1,9 @@
+Dondi's usability quiz
+  -favorite usability principle:
+    Fitts' law: ID = log2(2D/W)
+
+task/interface
+objects/actions
+
+stages-of-action theories - cyclical process of executing an action
+    - norman's theory of interacting with a system

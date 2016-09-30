@@ -1,0 +1,3 @@
+29 September 2016
+recap: prezi about web applications, Dev tools in browser, checkout network tab
+programmableweb.com --> choose an API

@@ -1,0 +1,14 @@
+September 15th, 2016
+HCI Principles
+Know Thy User
+  Corollary: if you think you know thy user, think again
+  Diversity across multiple dimensions: age, gender, physical and cognitive abilities, education, culture etc.
+  Interface knowledge vs domain/task knowledge
+    novice: little to none interface knowledge and domain knowledge
+    first-time: little to none interface and knowledgeable in domain
+    knowledgeable intermittent: some interface knowledge, knowledgeable in domain
+    expert frequent: expert interface knowledge, expert domain knowledge
+
+Choose an interaction style
+"Golden Rules"
+  Strive for consistency
