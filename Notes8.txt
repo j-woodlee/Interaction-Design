@@ -1,3 +1,0 @@
-September 27, 2016
-menus, forms, and dialogs
-- you don't have to memorize, recognition vs recall
