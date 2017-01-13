@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>RPG Game Front End Sample</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="slider-demo.css">
+  </head>
+  <body>
+    <div class="container">
+
+        <div class="row">
+          <div class="col-xs-12"><h3>Create Character</h3></div>
+        </div>
+
+        <div class="form-group">
+          <label for="name">Enter name.</label>
+          <input type="text" class="form-control" id="name">
+        </div>
+        <div class="form-group">
+          <label for="classType">Enter class type.</label>
+          <input type="text" class="form-control" id="classType">
+        </div>
+        <div class="form-group">
+            <label for="gender">Select gender:</label>
+            <select class="form-control" id="gender">
+              <option value="MALE">Male</option>
+              <option value="FEMALE">Female</option>
+            </select>
+        </div>
+        <div class="form-group">
+          <label for="level">Enter starting level by sliding the circle.</label>
+          <div class="rectangle"><div id="rect" class="handle"></div></div>
+          <div><p id="rect1">0</p></div>
+        </div>
+        <div class="form-group">
+          <label for="money">Enter starting money amount.</label>
+          <input type="text" class="form-control" id="money">
+        </div>
+        <div class="form-group">
+          <button id="createchar-button" class="btn btn-default">Create Character</button>
+        </div>
+        <a href="index.html" class="btn btn-default">Return Home</a>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="createchar.js"></script>
+    <script src="slider-demo.js"></script>
+
+    <script>window.CreateChar.init()</script>
+  </body>
+</html>
